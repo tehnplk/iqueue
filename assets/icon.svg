@@ -1,0 +1,6 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="56" fill="#f97316"/>
+  <text x="118" y="178" text-anchor="middle" font-family="Segoe UI" font-weight="800" font-size="136" fill="#fff">iQ</text>
+  <path d="M196 70 a44 44 0 0 1 0 62" stroke="#fff" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M214 50 a72 72 0 0 1 0 102" stroke="#fff" stroke-width="12" fill="none" stroke-linecap="round" opacity=".6"/>
+</svg>
